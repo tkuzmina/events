@@ -1,0 +1,41 @@
+<?php
+
+$lang['ui_title'] = "Events in Latvia";
+$lang['ui_logout_button'] = "Logout";
+$lang['ui_login_label'] = "Login";
+$lang['ui_password_label'] = "Password";
+$lang['ui_register_button'] = "Register";
+$lang['ui_login_button'] = "Login";
+$lang['ui_events_button'] = "Events";
+$lang['ui_manage_users_button'] = "Manage users";
+$lang['ui_manage_categories_button'] = "Manage categories";
+$lang['ui_new_event_button'] = "New event";
+$lang['ui_my_events_button'] = "My events";
+$lang['ui_filter_button'] = "Filter";
+$lang['ui_filter_by_category_label'] = "by category";
+$lang['ui_filter_by_username_label'] = "by username";
+$lang['ui_filter_by_tag_label'] = "by tag";
+$lang['ui_search_button'] = "Search";
+$lang['ui_reset_button'] = "Reset";
+$lang['ui_cancel_button'] = "Cancel";
+$lang['ui_add_tag_link'] = "Add tag";
+$lang['ui_add_tag_button'] = "Add tag";
+$lang['ui_comment_count_label'] = "Comments";
+$lang['ui_add_comment_link'] = "Add comment";
+$lang['ui_view_comments_link'] = "View comments";
+$lang['ui_add_comment_button'] = "Add comment";
+$lang['ui_category_label'] = "Category";
+$lang['ui_save_event_button'] = "Save";
+$lang['ui_user_management_label'] = "User management";
+$lang['ui_user_login_label'] = "Login";
+$lang['ui_user_password_label'] = "Password";
+$lang['ui_user_name_label'] = "Name";
+$lang['ui_user_surname_label'] = "Surname";
+$lang['ui_user_role_label'] = "Role";
+$lang['ui_category_management_label'] = "Category management";
+$lang['ui_category_name_label'] = "Name";
+$lang['ui_complete_registration_label'] = "Please complete the registration form";
+$lang['ui_actions_label'] = "Actions";
+$lang['ui_add_button'] = "Add";
+$lang['ui_edit_button'] = "Edit";
+

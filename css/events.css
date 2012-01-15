@@ -1,0 +1,265 @@
+.mainPage {
+	width: 800px; 
+	margin: auto;
+}
+
+.link {
+	text-decoration: underline;
+	color: blue;
+	padding-left: 5px;
+	cursor: pointer;
+}
+
+.event {
+	text-align: left;
+	border: 2px solid #808080;
+	margin-bottom: 5px;
+}
+
+.eventHeader {
+	background-color: #d1d1d1;
+	width: 100%;
+	float: left;
+}
+
+.eventTitle {
+	width: 500px;
+	float: left;
+	padding: 5px;
+}
+
+.eventTitleName {
+	font-size: 20px;
+    font-weight: bold;
+}
+
+.eventTitleCategory {
+}
+
+.eventInfo {
+	padding: 5px;
+	float: right;
+}
+
+.eventTags {
+	clear:both;
+	padding: 5px;
+	padding-bottom: 0px;
+	height: 25px;
+}
+
+.deleteIcon {
+    padding-left: 0px;
+}
+
+.tagControls {
+	float: right;
+	text-align: right;
+}
+
+.tagForm {
+	padding-right: 5px;
+	text-align: right;
+    display: none;
+}
+
+.eventDescription {
+	clear: both;
+	padding: 10px;
+	padding-top: 0px;
+}
+
+.eventForm {
+	text-align: right;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.eventNameCategoryHolder {
+	text-align: left;
+    padding-left: 10px;
+    padding-bottom: 5px;
+}
+
+.eventNameInput {
+	width: 400px;
+}
+
+.eventCategoryDropdown {
+    width: 140px;
+	margin-right: 20px;
+}
+
+.eventDescriptionArea {
+	width: 780px;
+	height: 150px;
+	padding: 5px;
+}
+
+.eventComments {
+	text-align: right;
+	padding: 5px;
+	padding-top: 0px;
+}
+
+.commentForm {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: right;
+}
+
+.commentArea {
+	width: 780px;
+	height: 100px;
+	padding: 5px;
+}
+
+.comment {
+	text-align: left;
+	border: 2px dotted #808080;
+	margin-bottom: 5px;
+}
+
+.commentHeader {
+	padding: 5px;
+}
+
+.commentBody {
+	padding: 5px;
+	padding-top: 0px;
+}
+
+.adminTable {
+    text-align: left;
+    margin: auto;
+    margin-bottom: 5px;
+}
+
+.loginUserId {
+    font-weight: bold;
+}
+
+.messagePanel {
+    padding: 5px;
+    text-align: left;
+    border: 2px solid #ff0000;
+    background-color: #ffe0e0;
+    margin-bottom: 5px;
+}
+
+.loginInfo {
+    padding: 5px;
+    text-align: right;
+    border: 2px solid #808080;
+    margin-bottom: 5px;
+}
+
+.loginForm {
+    padding: 5px;
+    padding-right: 0px;
+    border: 2px solid #808080;
+    width: 480px;
+    margin-bottom: 5px;
+    float: right;
+}
+
+.loginFormButton {
+    width: 150px;
+}
+
+.menuPanel {
+    background-color: #808080;
+    float: left;
+    width: 795px;
+    margin-bottom: 5px;
+    padding: 5px;
+    padding-right: 0px;
+}
+
+.menuItemLeft {
+    float: left;
+}
+
+.menuItemRight {
+    float: right;
+}
+
+.menuItemLeft,
+.menuItemRight {
+    background-color: #d1d1d1;
+    border: 2px solid #000000;
+    margin-right: 5px;
+    padding: 5px;
+    cursor: pointer;
+    width: 150px;
+    text-align: center;
+    display: inline;
+}
+
+.menuPanelEnd {
+    clear: both;
+}
+
+.searchMenu {
+    clear: both;
+    border: 2px solid #808080;
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+.searchPanel {
+    margin: 5px;
+}
+
+.searchParam {
+    padding-right: 5px;
+}
+
+.filterControl {
+    width: 80px;
+}
+
+.searchControl {
+    width: 190px;
+}
+
+.searchButton {
+    width: 100px;
+}
+
+.filterControl,
+.searchControl,
+.searchButton {
+    margin-left: 5px;
+}
+
+.registerFormContainer {
+    width: 800px;
+    margin: auto;
+    text-align: left;
+}
+
+.registerForm {
+    border: 2px solid #808080;
+    width: 350px;
+    margin: auto;
+    text-align: center;
+}
+
+.registerFormTitle {
+    background-color: #d1d1d1;
+}
+
+.registerFormContent {
+    margin: auto;
+    text-align: right;
+}
+
+.registerFormContent,
+.registerFormTitle {
+    padding: 5px;
+}
+
+.languagePanel {
+    margin-top: 20px;
+}
